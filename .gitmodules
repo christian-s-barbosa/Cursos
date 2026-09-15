@@ -1,3 +1,6 @@
 [submodule "Git"]
 	path = Git
 	url = https://github.com/christian-s-barbosa/Git.git
+[submodule "Rags"]
+	path = Rags
+	url = https://github.com/christian-s-barbosa/Rags.git
